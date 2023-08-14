@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+  }
+  
+  .container {
+    padding: 50px;
+  }
+  
+  button {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #countdown {
+    font-size: 48px;
+    margin: 20px;
+  }
+  
+  #animation {
+    font-size: 48px;
+  }
+  
+  #gender {
+    font-size: 24px;
+    margin-top: 20px;
+  }
